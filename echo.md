@@ -4,6 +4,8 @@
 
 > https://blog.laoda.de/archives/docker-compose-install-chatgpt-next-web
 
+> https://juejin.cn/post/7217435047489749049
+
 > https://yinzhidong-fictional-yodel-xrrwvj4g64w265v5.github.dev/?editSessionId=46c7a4ed-4f6a-4ca0-8708-80bc4924533e&continueOn=1
 
 
